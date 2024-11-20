@@ -1,1 +1,57 @@
 /* write your override styles here */
+/* Override for tag-1 */
+.tag-1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+  }
+  
+  /* Override for tag-2 */
+  #tag-2 {
+    background-color: blue;
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+  }
+  
+  /* Override for tag-3 */
+  #tag-3.slick.wicked {
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /* Override for all elements with class parent */
+  .parent {
+    background-color: yellow;
+    padding: 10px;
+  }
+  
+  /* Override for tag-4 */
+  #tag-4 {
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    margin: 5px;
+  }
+  
+  /* Override for tag-6 */
+  #tag-6 {
+    border-radius: 10px;
+    background-color: pink;
+    padding: 20px;
+    margin-top: 10px;
+  }
+  
+  /* Override for tag-7 */
+  #tag-7.slick {
+    background-color: brown;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+  }
+  
